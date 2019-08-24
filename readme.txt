@@ -1,4 +1,4 @@
-Version 1.0	Repository initialized
+Version 1.0	Repository initialized	b
 2nd Change
 3rd Change
 ! Change im Feature
